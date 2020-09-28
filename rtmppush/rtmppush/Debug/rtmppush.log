@@ -1,0 +1,11 @@
+﻿  H2642RTMP.cpp
+d:\work\0928\rtmpdll\rtmppush\include\libavutil\rational.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\work\0928\rtmpdll\rtmppush\rtmppush\rtmppush\h2642rtmp.cpp(73): warning C4018: “<”: 有符号/无符号不匹配
+d:\work\0928\rtmpdll\rtmppush\rtmppush\rtmppush\h2642rtmp.cpp(100): warning C4018: “<”: 有符号/无符号不匹配
+d:\work\0928\rtmpdll\rtmppush\rtmppush\rtmppush\h2642rtmp.cpp(325): warning C4018: “<”: 有符号/无符号不匹配
+  export_func.cpp
+d:\work\0928\rtmpdll\rtmppush\include\libavutil\rational.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  正在生成代码...
+    正在创建库 D:\work\0928\rtmpDLL\rtmppush\rtmppush\Debug\rtmppush.lib 和对象 D:\work\0928\rtmpDLL\rtmppush\rtmppush\Debug\rtmppush.exp
+  rtmppush.vcxproj -> D:\work\0928\rtmpDLL\rtmppush\rtmppush\Debug\rtmppush.dll
+  rtmppush.vcxproj -> D:\work\0928\rtmpDLL\rtmppush\rtmppush\Debug\rtmppush.pdb (Partial PDB)
